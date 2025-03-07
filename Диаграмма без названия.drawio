@@ -13,17 +13,17 @@
         <mxCell id="A9SU0iNLX3xnFoazCiAV-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="390" y="450" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A9SU0iNLX3xnFoazCiAV-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="A9SU0iNLX3xnFoazCiAV-3">
+        <mxCell id="A9SU0iNLX3xnFoazCiAV-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" target="A9SU0iNLX3xnFoazCiAV-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="480" as="sourcePoint" />
             <mxPoint x="380" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A9SU0iNLX3xnFoazCiAV-11" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.variable_resistor_1;" vertex="1" parent="1">
+        <mxCell id="A9SU0iNLX3xnFoazCiAV-11" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.variable_resistor_1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="180" y="310" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A9SU0iNLX3xnFoazCiAV-13" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.springReturn3;elSwitchState=off;" vertex="1" parent="1">
-          <mxGeometry x="310" y="444" width="75" height="26" as="geometry" />
+        <mxCell id="A9SU0iNLX3xnFoazCiAV-13" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.springReturn3;elSwitchState=off;fontColor=#ffffff;fillColor=#60a917;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="310" y="444" width="60" height="26" as="geometry" />
         </mxCell>
         <mxCell id="A9SU0iNLX3xnFoazCiAV-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="400" y="460" width="10" height="10" as="geometry" />
@@ -39,6 +39,85 @@
               <mxPoint x="200" y="420" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="A9SU0iNLX3xnFoazCiAV-21" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="350" as="sourcePoint" />
+            <mxPoint x="400" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9SU0iNLX3xnFoazCiAV-22" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="350" as="sourcePoint" />
+            <mxPoint x="480" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="400" />
+              <mxPoint x="460" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9SU0iNLX3xnFoazCiAV-24" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="450" as="sourcePoint" />
+            <mxPoint x="480" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9SU0iNLX3xnFoazCiAV-25" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="510" as="sourcePoint" />
+            <mxPoint x="450" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9SU0iNLX3xnFoazCiAV-26" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="510" as="sourcePoint" />
+            <mxPoint x="580" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9SU0iNLX3xnFoazCiAV-27" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="290" as="sourcePoint" />
+            <mxPoint x="430" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9SU0iNLX3xnFoazCiAV-28" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="280" as="sourcePoint" />
+            <mxPoint x="500" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9SU0iNLX3xnFoazCiAV-29" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="360" as="sourcePoint" />
+            <mxPoint x="540" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9SU0iNLX3xnFoazCiAV-30" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="470" as="sourcePoint" />
+            <mxPoint x="540" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9SU0iNLX3xnFoazCiAV-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="380" as="sourcePoint" />
+            <mxPoint x="760" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9SU0iNLX3xnFoazCiAV-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="460" as="sourcePoint" />
+            <mxPoint x="760" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9SU0iNLX3xnFoazCiAV-33" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="300" as="sourcePoint" />
+            <mxPoint x="760" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9SU0iNLX3xnFoazCiAV-36" value="Green is HeelDrive or HeelKick" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="500" y="110" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
