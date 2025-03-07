@@ -119,6 +119,9 @@
         <mxCell id="A9SU0iNLX3xnFoazCiAV-36" value="Green is HeelDrive or HeelKick" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fontColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="500" y="110" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="A9SU0iNLX3xnFoazCiAV-37" value="© [Alibek Kozhatayev], 2023-2025. All rights reserved. Commercial use prohibited without written permission." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="540" width="790" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
